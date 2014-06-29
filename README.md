@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-Just another repository
+Adding different text for exercise.
